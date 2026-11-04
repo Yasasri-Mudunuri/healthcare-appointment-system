@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+dist/
+.DS_Store
+
+# Patients upload chesina files commit cheyakudadu
+Backend/uploads/
